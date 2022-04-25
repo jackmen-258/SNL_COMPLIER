@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-lexer",
+      "appliesTo": "src/lexer.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-SNL_COMPLIER",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-src",
+      "appliesTo": "src/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-SNL_COMPLIER",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

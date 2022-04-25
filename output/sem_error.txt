@@ -1,0 +1,2 @@
+error1 in line48 : 过程调用实参数目不完整!
+error2 in line49 : 过程调用实参数目过多!
